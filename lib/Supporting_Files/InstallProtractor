@@ -1,0 +1,4 @@
+1. Download and install NodeJs
+2. Install NPM
+3. Install Protractor
+    npm install -g Protractor
