@@ -12,7 +12,8 @@ exports.config = {
 
   // Spec patterns are relative to the current working directory when
   // protractor is called.
-  specs: ['CustomerLandingPage.spec.js'],
+  specs: ['2748_CustomerLandingPage.spec.js'],
+  specs: ['2761_NewParkingPermit.spec.js'],
 
   // Options to be passed to Jasmine.
   jasmineNodeOpts: {
