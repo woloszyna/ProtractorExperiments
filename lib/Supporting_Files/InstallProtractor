@@ -2,3 +2,8 @@
 2. Install NPM
 3. Install Protractor
     npm install -g Protractor
+4. Install Java
+5. Update webdriver-manager
+    webdriver-manager update
+6.  Start webdriver-manager
+    webdriver-manager start
